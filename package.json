@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "lerna:bootstrap": "lerna bootstrap",
-    "lerna:clean": "lerna clean --yes",
-    "lerna:reload": "npm run lerna:clean && npm run lerna:bootstrap",
+    "clean": "lerna clean --yes",
+    "clean-root": "rimraf node_modules",
+    "bootstrap": "lerna bootstrap --hoist",
+    "reload": "npm run clean && npm run clean-root && lerna bootstrap"
   },
   "devDependencies": {
     "@types/node": "^12.12.14",
