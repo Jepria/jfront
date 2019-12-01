@@ -5,8 +5,7 @@
   "scripts": {
     "clean": "lerna clean --yes",
     "clean-root": "rimraf node_modules",
-    "bootstrap": "lerna bootstrap --hoist",
-    "reload": "npm run clean && npm run clean-root && lerna bootstrap"
+    "bootstrap": "lerna bootstrap --hoist"
   },
   "devDependencies": {
     "@types/node": "^12.12.14",
