@@ -1,6 +1,9 @@
 {
   "name": "jfront",
   "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
   "devDependencies": {
     "@types/node": "^12.12.14",
     "lerna": "^3.19.0",
