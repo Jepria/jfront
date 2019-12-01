@@ -1,8 +1,11 @@
 {
   "name": "jfront",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "bootstrap": "lerna bootstrap"
+    "lerna:bootstrap": "lerna bootstrap",
+    "lerna:clean": "lerna clean --yes",
+    "lerna:reload": "npm run lerna:clean && npm run lerna:bootstrap",
   },
   "devDependencies": {
     "@types/node": "^12.12.14",
