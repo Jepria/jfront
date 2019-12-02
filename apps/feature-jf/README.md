@@ -1,6 +1,6 @@
 # `feature-jf`
 
-> TODO: description
+Feature application based on jfront
 
 ## Usage
 
