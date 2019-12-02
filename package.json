@@ -5,7 +5,7 @@
   "scripts": {
     "clean": "lerna clean --yes",
     "clean-root": "rimraf node_modules",
-    "bootstrap": "lerna bootstrap --hoist"
+    "bootstrap": "lerna bootstrap --hoist --nohoist=jest,babel"
   },
   "devDependencies": {
     "@types/node": "^12.12.14",
