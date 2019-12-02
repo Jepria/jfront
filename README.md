@@ -2,7 +2,7 @@
 
 JS-based frontend solutions
 
-# Install Lerna
+# Install lerna
 ```
 npm install -g lerna
 ```
