@@ -1,6 +1,6 @@
 {
   "name": "@jfront/core",
-  "version": "0.1.16",
+  "version": "0.1.0",
   "description": "JFront core library",
   "homepage": "https://github.com/Jepria/jfront#readme",
   "main": "lib/jfcore.js",
