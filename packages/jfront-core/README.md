@@ -1,6 +1,6 @@
-# `jfcore`
+# `jfront-core`
 
-JFront core code
+JFront core library
 
 ## Usage
 
