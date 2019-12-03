@@ -1,6 +1,6 @@
 {
   "name": "@jfront/feature-jf",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Jepria Feature app client based on jfront",
   "homepage": "https://github.com/AlexanderLapygin/feature-jf#readme",
   "license": "ISC",
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/AlexanderLapygin/feature-jf/issues"
   },
-  "gitHead": "5b0aca88ce5a5454af2abf280ab2bc006d21690b"
+  "gitHead": "cff1a3b3ae653ec5239219619f2eb30fe5d33655"
 }
