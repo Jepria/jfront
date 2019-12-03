@@ -1,6 +1,6 @@
 {
   "name": "@jfront/jfcore",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "JFront core code",
   "homepage": "https://github.com/Jepria/jfront#readme",
   "main": "lib/jfcore.js",
@@ -24,5 +24,5 @@
   "bugs": {
     "url": "https://github.com/Jepria/jfront/issues"
   },
-  "gitHead": "d6962d61f64fea0c988da49f18a3fd0502de895c"
+  "gitHead": "d805c60024db01e7c0e4e8d361e4674876216820"
 }
