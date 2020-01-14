@@ -5,9 +5,9 @@
     "access": "public"
   },
   "scripts": {
+    "bootstrap": "lerna bootstrap --hoist --nohoist=jest,babel",
     "clean": "lerna clean --yes",
-    "clean-root": "rimraf node_modules",
-    "bootstrap": "lerna bootstrap --hoist --nohoist=jest,babel"
+    "clean-root": "rimraf node_modules"
   },
   "devDependencies": {
     "@types/node": "^12.12.14",
