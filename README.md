@@ -1,2 +1,3 @@
 # jfront
-DEPRECATED - в связи с миграцией в Jepria/jfront-doc
+
+Главный репозиторий JFront 
