@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/Jepria/jfront/blob/master/README.md">
+    <img src="images/jfront-logo.png" alt="drawing" width="100"/>
+  </a>
+</p>
 # Проект *JFront*
 
 - [Основные документы](https://github.com/Jepria/doc/tree/master/jfront)
